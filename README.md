@@ -8,6 +8,7 @@ To begin, clone the repository in one of the following ways:
  * gh repo clone WolfgangWaltenberger/vietnam2022
  * git clone git@github.com:WolfgangWaltenberger/vietnam2022.git
  * git clone https://github.com/WolfgangWaltenberger/vietnam2022.git
+<img src="qrcode.png">
 
 # Install the dependencies
 You will need to have pytorch installed. Run ./install.sh, it should do the trick.
