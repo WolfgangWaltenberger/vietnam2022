@@ -13,4 +13,5 @@ To begin, clone the repository in one of the following ways:
 You will need to have pytorch installed. Run ./install.sh, it should do the trick.
 
 # Start with exercise #1
-Edit 01\_skeleton.py, run, solve the exercise.
+Edit 01\_skeleton.ipynb, run, solve the exercise. Either locally on your computer
+by starting a jupyter notebook server, or on google colab.
