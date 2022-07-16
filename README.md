@@ -1,7 +1,7 @@
 <img src="logo.png">
-Repository for the machine learning class of the [28th Vietnam School of Physics, 2022](https://indico.in2p3.fr/event/26817/)
+Repository for the machine learning class of the <a href=https://indico.in2p3.fr/event/26817/>28th Vietnam School of Physics, 2022</a>
 The repository contains skeleton code used for the exercises.
-[google colab](https://colab.research.google.com/github/WolfgangWaltenberger/vietnam2022)
+<a href=https://colab.research.google.com/github/WolfgangWaltenberger/vietnam2022>google colab</a>
 
 # Clone the repository
 To begin, clone the repository in one of the following ways:
