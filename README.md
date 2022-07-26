@@ -6,7 +6,7 @@ The repository contains skeleton code used for the exercises.
 <a href=https://colab.research.google.com/github/WolfgangWaltenberger/vietnam2022>google colab</a>
 
 # Run via binder
-Alternively, running on<a href=https://mybinder.org/v2/gh/WolfgangWaltenberger/vietnam2022/HEAD>binder</a> should work as well
+Alternively, running on <a href=https://mybinder.org/v2/gh/WolfgangWaltenberger/vietnam2022/HEAD>binder</a> should work as well
 
 # Run locally on your computer
 ## Clone the repository
